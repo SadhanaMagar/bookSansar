@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\backend",
+    "\\backend\\Controllers",
+    "\\backend\\DTO",
+    "\\backend\\Entities",
+    "\\backend\\Properties",
+    "\\backend\\Repositories"
+  ],
+  "PreviewInSolutionExplorer": false
+}
